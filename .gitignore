@@ -1,0 +1,21 @@
+# Python virtual environment
+backend/venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables (sensitive keys, never commit these)
+.env
+*.env
+
+# macOS junk
+.DS_Store
+
+# Node modules (frontend dependencies, like venv but for JS)
+node_modules/
+
+# Vite build output
+frontend/dist/
